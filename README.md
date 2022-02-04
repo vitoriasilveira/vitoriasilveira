@@ -1,9 +1,9 @@
-### Hi there! 
+### Olá, sou a Vitória! Estou constantemente aprendendo e aplicando novas tecnologias... 
 
 <div align="center">
   <a href="https://github.com/vitoriasilveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriasilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasilveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=vitoriasilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasilveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
