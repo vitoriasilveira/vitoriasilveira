@@ -1,4 +1,4 @@
-### Olá, eu sou a Vitória! Estou constantemente aprendendo e aplicando tecnologias... 
+ 
 
 <div align="center">
   <a href="https://github.com/vitoriasilveira">
