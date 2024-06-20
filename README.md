@@ -1,4 +1,9 @@
-- Olá, eu sou a Vitória, tenho 23 anos. 
+Olá, sou a Vitória e tenho 23 anos.
+
+- Atualmente, curso Ciências da Computação, na UNESP de Rio Claro - SP.
+- Nos últimos dois anos, me dediquei integralmente na empresa júnior do curso, Info Jr. Lá adquiri diversas habilidades e pude aplicar e aperfeiçoar o que aprendia em sala de aula.
+- Na graduação, adquiri conhecimento em algumas linguagens de programação, como Java, Python e C.
+- Sou muito curiosa e tenho enorme disposição a aprender e utilizar novas ferramentas e tecnologias. Meu trabalho favorito é tudo que envolve Java. 
 
 <div align="center">
   <a href="https://github.com/vitoriasilveira">
