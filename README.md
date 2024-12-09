@@ -1,10 +1,9 @@
 Olá, sou a Vitória e tenho 23 anos.
 
-  - 📍 Atualmente, curso Ciências da Computação, na UNESP de Rio Claro - SP.
+  - 📍 Atualmente, curso Ciências da Computação, na Universidade Estadual Paulista - UNESP, no campus de Rio Claro - SP.
   - 💡 Nos últimos dois anos, me dediquei integralmente na empresa júnior do curso, Info Jr. Lá adquiri diversas habilidades e pude aplicar e aperfeiçoar o que aprendia em sala de aula.
-  - 📖 Na graduação, adquiri conhecimento em algumas linguagens de programação, como Java, Python e C.
-  - 💻 Sou muito curiosa e tenho enorme disposição a aprender e utilizar novas ferramentas e tecnologias.
-  - ☕ 🤎 Meu trabalho favorito é tudo que envolve Java. 
+  - 📖 Na graduação, adquiri conhecimento através de projetos práticos, que me gerou grande confiança em tecnologias como HMTL, CSS, JavaScript, Python, Java, entre outras ferramentas essências para desenvolvimento de sistemas.
+  - 💻 Sou muito curiosa e tenho enorme disposição a aprender e utilizar novas ferramentas e tecnologias, meu foco nos últmos meses, tem sido desenvolver de forma eficaz e desbravar o horizonte da análise de dados, área na qual também sempre tive apego.
   
 
 <div align="center">
