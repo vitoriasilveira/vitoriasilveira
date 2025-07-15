@@ -8,5 +8,5 @@
 
 ## 📑 Certifications
 
-- 🧭 *Data Visualization* – Instituto Eldorado
-- 📈 *Data Analysis with Python* – Instituto Eldorado
+- *Data Visualization* – Instituto Eldorado
+- *Data Analysis with Python* – Instituto Eldorado
