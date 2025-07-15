@@ -4,10 +4,7 @@
 💡 I'm passionate about solving real-world problems using data.  
 📊 My main interests include Data Analysis, Data Visualization, and Data Engineering.  
 🛠️ Technologies I work with: Python, SQL, Pandas, Numpy, and DataFrames.
-🌱 I’m improving my skills with BigQuery
- 
-## 📫 Reach me at
-linkedin.com/in/vitoriasilveira or vitoriaftmsilveira@gmail.com
+📫 Reach me at vitoriaftmsilveira@gmail.com
 
 ## 📑 Certifications
 
