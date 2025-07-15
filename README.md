@@ -1,15 +1,13 @@
-# 👩‍💻 Vitória Silveira
-
-Hi there! I'm Vitória 👋
+# Hi there! I'm Vitória 👋
 
 🎓 I'm currently an undergraduate student in Data Science at São Paulo Virtual State University (UNIVESP).  
 💡 I'm passionate about solving real-world problems using data.  
 📊 My main interests include Data Analysis, Data Visualization, and Data Engineering.  
 🛠️ Technologies I work with: Python, SQL, Pandas, Numpy, and DataFrames.
-🌱 I’m currently improving my skills with BigQuery
+🌱 I’m improving my skills with BigQuery
 📫 Reach me at: vitoriaftmsilveira@gmail.com  
 
 ## 📑 Certifications
 
-- 🧭 First Steps in Data Visualization – Instituto Eldorado
+- 🧭 *Data Visualization* – Instituto Eldorado
 - 📈 *Data Analysis with Python* – Instituto Eldorado
