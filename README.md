@@ -8,5 +8,5 @@
 
 ## 📑 Certifications
 
-- 32h| *Data Visualization* – Instituto Eldorado
-- 40h| *Data Analysis with Python* – Instituto Eldorado
+- 32h | *Data Visualization* – Instituto Eldorado
+- 40h | *Data Analysis with Python* – Instituto Eldorado
